@@ -3,6 +3,7 @@ import re
 import requests
 import os
 
+
 key = str(input('请输入想要找的图片的关键词: '))
 page = int(input('请输入要下载的页数: '))
 path = str(input('请输入要保存的文件夹: '))
